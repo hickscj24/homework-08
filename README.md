@@ -1,8 +1,8 @@
 
  
-# Homeowrk
+# Homework-08
 ## Description 
-its due soon
+this weeks homework
 ## table of contents
 * [description](#description)
 * [installation](#installation)
@@ -12,17 +12,17 @@ its due soon
 * [tests](#tests)
 * [questions](#questions)
 ## installation
-no
+npm install inquirer
 ## usage
-no
+none at this momemnt
 ## license
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## contributing
-rf
+using the inquirer package api
 ## tests   
-here it goes
+none
 ## questions
-na <br/>
+none <br/>
 if you have any additional questions please contact hickscj5@gmail.com <br/>
-[github this weeks homework](https://github.com/this weeks homework)
+[github hickscj24](https://github.com/hickscj24)
     

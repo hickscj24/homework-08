@@ -1,26 +1,3 @@
-/*console.log('start hw')
-var x = 1
-var y = 2
-
-function myfunc (z) {
-    console.log('print')
-    console.log('print')
-    return z+1
-}
-
-
-console.log('start hw2')
-x=16
-x=23
-y=myfunc(y)
-
-
-
-console.log('start hw3')
-console.log('start hw4')
-console.log('start hw5')*/
-
-
 
 var inquirer = require('inquirer');
 var fs = require('fs');
