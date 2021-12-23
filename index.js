@@ -123,7 +123,7 @@ writeFile(readmeFile);
   function writeFile(content){
     console.log(content);
 
- fs.writeFile(path.join(process.cwd(), 'README.md'), content,  function (err) {
+ fs.writeFile(path.join(process.cwd(), 'output/README.md'), content,  function (err) {
         if (err) throw err;
         console.log('Saved!')
      } );

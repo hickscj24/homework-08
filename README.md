@@ -1,8 +1,8 @@
 
  
-# Homework-08
+# README Generator
 ## Description 
-this weeks homework
+        Creates ReadME files.
 ## table of contents
 * [description](#description)
 * [installation](#installation)
@@ -12,17 +12,20 @@ this weeks homework
 * [tests](#tests)
 * [questions](#questions)
 ## installation
-npm install inquirer
+ubijnwef
 ## usage
-none at this momemnt
+kdf
 ## license
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## contributing
-using the inquirer package api
+
 ## tests   
-none
+
 ## questions
-none <br/>
-if you have any additional questions please contact hickscj5@gmail.com <br/>
-[github hickscj24](https://github.com/hickscj24)
+ <br/>
+if you have any additional questions please contact  <br/>
+[github iuvbfe](https://github.com/iuvbfe)
     
+
+
+    https://watch.screencastify.com/v/Or9EuXoh1b5OX6mw8CeQ
